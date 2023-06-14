@@ -3,7 +3,8 @@ import Image from "next/image";
 import { Button } from "@/components";
 
 const Hero = () => {
-  const handleClick = () => {};
+  const handleClick = () => {
+  };
   return (
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
